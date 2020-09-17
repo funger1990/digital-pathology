@@ -1,0 +1,2 @@
+wsi,msi,dataset,patch,level,x,y,size,file
+training_data_01,1,train,training_data_01_l2_49152_65536,2,49152,65536,256,PAIP2020/training/patch_level2_256_macenko/training_data_01/training_data_01_l2_49152_65536.tif
